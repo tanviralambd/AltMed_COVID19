@@ -17,3 +17,6 @@ In this study, we addressed the alternative medications that have been targeted 
 Clinical Trials on Alternative Medicines for COVID-19. 
 Bassam Ali JABER, Rizwan QURESHI, Alaa ABD-ALRAZAQ, Mohammad Azizur RAHMAN, Mowafa HOUSEH, Zubair SHAH, Tanvir ALAM. 
 International Confernce on Informatics, Management and Technology in Healthcare (2022)
+
+https://pubmed.ncbi.nlm.nih.gov/35773886/
+https://doi.org/10.3233/shti220740
